@@ -1,0 +1,1 @@
+Disable Cut, Copy, Paste
